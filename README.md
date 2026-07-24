@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Madhanraj D**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.E+AI+%26+ML+Student;Aspiring+data+%26+analytics+Engineer;Learning+Automation+Step+by+Step;Building+Skills+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.E+AI+%26+ML+Student;Aspiring+data+analytics+Engineer;Learning+Automation+Step+by+Step;Building+Skills+Every+Day" />
 </p>
 
 ## 🌱 About Me
